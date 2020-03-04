@@ -1,0 +1,3 @@
+﻿  Duty_schedule.cpp
+c:\users\sergei\source\repos\duty_schedule\duty_schedule\duty_schedule.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Duty_schedule.vcxproj -> C:\Users\Sergei\source\repos\Duty_schedule\Debug\Duty_schedule.exe
