@@ -8,4 +8,5 @@ class Cadet
 	string full_name;
 public:
 	Cadet();
+	string get_cadets_name()const;
 };
